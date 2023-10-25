@@ -1,6 +1,6 @@
 def main(a):
     return a
-print(main(9//3))
+print(main(9/3))
 
    
    
